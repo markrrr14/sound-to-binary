@@ -48,6 +48,7 @@ body {
 }
 .hero h1 { margin: 0 0 6px; font-size: clamp(24px, 4vw, 34px); letter-spacing: -0.02em; }
 .hero p { margin: 0; opacity: .9; font-size: 15px; }
+.hero .author { margin-top: 8px; font-weight: 700; opacity: 1; }
 .badge {
   display: inline-block;
   font-size: 12px;
